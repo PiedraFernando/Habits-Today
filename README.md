@@ -1,3 +1,9 @@
+# Habits Today
+App to create recurring tasks, where you can mark as 'Pending', 'Completed' and 'Cancelled', you can order the tasks, so that you can orders and follow them for your day.
+
+# Habits Today
+App para crear tareas recurrentes, donde, podrás marcar como 'Pendiente', 'Completado' y 'Cancelado', Se podrá ordenar las tareas, para que las órdenes y siguaspara tu día.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
