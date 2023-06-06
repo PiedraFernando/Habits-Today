@@ -16,6 +16,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff",
-  "homepage": "https://PiedraFernando.github.io/Habits-Today"
+  "background_color": "#ffffff"
 }
