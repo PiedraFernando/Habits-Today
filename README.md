@@ -1,8 +1,14 @@
 # Habits Today
-App to create recurring tasks, where you can mark as 'Pending', 'Completed' and 'Cancelled', you can order the tasks, so that you can orders and follow them for your day.
+App to create recurring tasks, where you can mark as 'Pending', 'Completed' and 'Cancelled', you can order the tasks, so that you can order and follow them for your day.
 
-# Habits Today
-App para crear tareas recurrentes, donde, podrás marcar como 'Pendiente', 'Completado' y 'Cancelado', Se podrá ordenar las tareas, para que las órdenes y siguaspara tu día.
+# Functionality
+* Sort as you like the tasks: To follow the day
+* Add any quantity of task: Don't have limits
+* Easy interface: Simple and intuitive
+* Practice : No much no less, just de necessary
+
+# Figma
+If you like the design, here is the Figma: https://www.figma.com/file/xGCnHi4dPbWdt6x32WZl8Z/Habits-today?type=design&node-id=0%3A1&t=ZRxIn0nYiHOhZnys-1
 
 # Getting Started with Create React App
 
