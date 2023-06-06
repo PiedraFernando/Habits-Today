@@ -1,0 +1,40 @@
+ul{
+  list-style: none;
+}
+.item{
+  background-color: var(--light);
+  margin: 12px;
+  border: solid 2px var(--dark);
+  border-radius: 12px;
+  min-height: 120px;
+  display: flex;
+}
+.item textarea{
+  width: 70%;
+  border: none;
+  background-color: transparent;
+  padding: 8px;
+}
+.item-arrow-container{
+  width: 10%;
+  display: flex;
+  flex-direction: column;
+}
+.item-arrow{
+  border: 2px solid var(--dark);
+  height: 50%;
+  border-top: none;
+  border-bottom: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.border-bottom{
+  border-bottom: 2px solid var(--dark);
+}
+.item-status{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20%;
+}
