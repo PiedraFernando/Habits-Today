@@ -7,8 +7,8 @@ function List(){
   const {tasks} = useContext(TaskContext)
   return(
     <ul>
-      {tasks.map((task)=>{
-        return(<Item key={task.text} task={task}/>)
+      {tasks.map((task, i)=>{
+        return(<Item key={i+task.text} task={task} index={i}/>)
       })}
     </ul>
   )

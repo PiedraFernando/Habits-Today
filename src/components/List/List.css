@@ -10,10 +10,21 @@ ul{
   display: flex;
 }
 .item textarea{
-  width: 70%;
+  width: 65%;
   border: none;
   background-color: transparent;
   padding: 8px;
+}
+.item textarea:focus-visible{
+  outline: none;
+  box-shadow: none;
+}
+.item-delete{
+ width: 5%;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ border-right: 2px solid var(--dark);
 }
 .item-arrow-container{
   width: 10%;
